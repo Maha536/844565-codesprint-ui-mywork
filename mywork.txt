@@ -1,0 +1,35 @@
+My associate id:
+
+844565
+
+Other team members:
+
+844566 , 844628 , 844576 , 844582
+
+Team lead:
+
+844565
+
+My Role in team:
+
+1. To perform validations and maintaining data using localstorage.
+
+My development files:
+
+1. trainerAppointment.js
+
+2. viewAppointments.js
+
+3. view.html
+
+I was strong in:
+
+1. HTML
+
+2. Javascript
+
+3. Bootstrap
+
+I was weak in :
+
+1.CSS
